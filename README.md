@@ -5,7 +5,7 @@ Provision for drag/drop functionality from one UICollectionView to another view.
 
 
 <br><br>
-<a href='http://postimg.org/image/dyc2yj08t' target='_blank'><img src='http://postimg.org/image/dyc2yj08t' border='0' alt="89dq7" /></a>
+<img src="http://s30.postimg.org/mtcx91p1b/89dq7.gif" alt="89dq7" width="203px" height="360px">
 <br>
 
 <img class="ctx-gif" width="203" height="360" src="https://imgflip.com/gif/89dq7">
