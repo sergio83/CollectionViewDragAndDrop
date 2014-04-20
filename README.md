@@ -4,7 +4,7 @@ CollectionViewDragAndDrop
 Drag items from UICollectionView to another view.
 
 <br><br>
-<a href="http://fat.gfycat.com/TeemingGorgeousBubblefish.gif"><img src="http://fat.gfycat.com/TeemingGorgeousBubblefish.gif" /></a>
+<a href="http://zippy.gfycat.com/GrizzledLeadingBasilisk.gif"><img src="http://zippy.gfycat.com/GrizzledLeadingBasilisk.gif" /></a>
 <br>
 
 
