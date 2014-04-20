@@ -5,7 +5,7 @@ Provision for drag/drop functionality from one UICollectionView to another view.
 
 
 <br><br>
-<a href="https://imgflip.com/gif/89dq7"><img src="//i.imgflip.com/89dq7.gif" title=""/></a>
+[url=https://imgflip.com/gif/89dq7][img]//i.imgflip.com/89dq7.gif[/img][/url][url=https://imgflip.com/gifgenerator]via Imgflip GIF Maker[/url]
 <br>
 
 
