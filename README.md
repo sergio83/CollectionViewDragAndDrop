@@ -1,8 +1,7 @@
 CollectionViewDragAndDrop
 =========================
 
-Provision for drag/drop functionality from one UICollectionView to another view.
-
+Drag items from UICollectionView to another view.
 
 <br><br>
 <a href="http://fat.gfycat.com/TeemingGorgeousBubblefish.gif"><img src="http://fat.gfycat.com/TeemingGorgeousBubblefish.gif" /></a>
